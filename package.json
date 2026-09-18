@@ -25,5 +25,6 @@
     "type": "git",
     "url": "git+https://github.com/zbodi74/metabase-custom-viz-tabular-heatmap.git"
   },
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "author": "Metabase, Inc."
 }

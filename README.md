@@ -118,3 +118,7 @@ name allowlisted: `allowedCustomVisualizations: ["custom:Tabular heatmap"]`.
 
 The sandbox blocks network access, storage and most browser APIs, so everything
 the chart draws comes from `series` and `settings`.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
